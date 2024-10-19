@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      <!-- Intro -->
+      {/* Intro */}
         <div id="intro" classNameName="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-01.jpg">
             <nav id="tm-nav" className="fixed w-full">
                 <div className="tm-container mx-auto px-2 md:py-6 text-right">
@@ -38,7 +38,7 @@ function App() {
                 </div>
             </div>        
         </div>
-        <!-- Cafe Menu -->
+        {/* Cafe Menu */}
         <div id="menu" className="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-02.jpg">
             <div className="container mx-auto tm-container py-24 sm:py-48">
                 <div className="text-center mb-16">
